@@ -2,3 +2,6 @@ nboutin
 arduino
 plugin
 kepler
+ms
+cpp
+nicolas
